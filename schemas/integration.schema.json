@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Integration",
+  "type": "object",
+  "required": ["integration_id", "source", "target", "pattern"],
+  "properties": {
+    "integration_id": {"type": "string"},
+    "source": {"type": "string"},
+    "target": {"type": "string"},
+    "purpose": {"type": ["string", "null"]},
+    "pattern": {"type": "string"},
+    "frequency": {"type": ["string", "null"]},
+    "data_classification": {"type": ["string", "null"]},
+    "owner": {"type": ["string", "null"]}
+  }
+}

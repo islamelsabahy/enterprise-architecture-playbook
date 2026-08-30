@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ApplicationPortfolioItem",
+  "type": "object",
+  "required": ["application_id", "name", "criticality", "lifecycle_status"],
+  "properties": {
+    "application_id": {"type": "string"},
+    "name": {"type": "string"},
+    "business_owner": {"type": ["string", "null"]},
+    "technical_owner": {"type": ["string", "null"]},
+    "criticality": {"type": "string"},
+    "lifecycle_status": {"type": "string"},
+    "strategic_fit": {"type": ["string", "null"]},
+    "technical_health": {"type": ["string", "null"]},
+    "target_disposition": {"type": ["string", "null"]}
+  }
+}

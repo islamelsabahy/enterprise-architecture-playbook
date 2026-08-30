@@ -1,0 +1,4 @@
+technology_category,technology,status,owner,review_date,notes
+Database,Demo PostgreSQL,Preferred,Demo Architecture Owner,2027-01-01,Transactional workloads
+Integration,Demo REST API,Preferred,Demo Integration Owner,2027-01-01,Standard synchronous interface
+Legacy Runtime,Demo Legacy Runtime,Deprecated,Demo Platform Owner,2026-12-31,Migration required

@@ -1,0 +1,3 @@
+integration_id,source,target,purpose,pattern,frequency,data_classification,owner,lifecycle_status
+DEMO-INT-001,Demo CRM,Demo ERP,Customer synchronization,API,Near Real-Time,Internal,Demo Integration Owner,Active
+DEMO-INT-002,Demo ERP,Demo Analytics,Financial reporting,Batch,Daily,Confidential,Demo Data Owner,Active

@@ -1,0 +1,3 @@
+adr_id,title,domain,status,decision_date,owner
+DEMO-ADR-001,Adopt API-first Integration,Integration,Accepted,2026-08-30,Demo Architecture Owner
+DEMO-ADR-002,Standardize Analytics Database,Data,Accepted,2026-08-30,Demo Data Owner

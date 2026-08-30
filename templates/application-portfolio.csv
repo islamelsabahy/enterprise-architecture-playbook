@@ -1,0 +1,3 @@
+application_id,name,business_owner,technical_owner,criticality,lifecycle_status,hosting_model,strategic_fit,technical_health,target_disposition
+DEMO-APP-001,Demo ERP,Demo Finance Owner,Demo IT Owner,Critical,Active,Cloud,High,Good,Invest
+DEMO-APP-002,Demo Legacy Reporting,Demo Operations Owner,Demo IT Owner,Medium,Active,On-Prem,Low,Poor,Replace
